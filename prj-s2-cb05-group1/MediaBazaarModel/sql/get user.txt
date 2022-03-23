@@ -1,0 +1,7 @@
+get user
+select users.id, users.first_name, users.last_name, users.date_of_birth, nations.nationality, users.email, users.address_zip_code, users.address_city, users.address_street,
+(select TOP 1 date_start from employment_history where employment_history.user_id = users.id order by date_start ASC) as date_start, (select TOP 1 position_id from employment_history where employment_history.user_id = users.id order by date_start DESC) as position_id,
+(select TOP 1 positions.dept_id  from employment_history join positions on employment_history.position_id = positions.id where employment_history.user_id = users.id order by date_start DESC) as department_id,
+users.is_active, users.login, users.gender, (select TOP 1 salary from employment_history where employment_history.user_id = users.id order by date_start DESC) as salary, users.bsn, users.contact_number, users.ice_name, users.ice_number,
+(select TOP 1 part_time_factor from employment_history where employment_history.user_id = users.id order by date_start DESC) as part_time_factor
+from users join nations on users.nationality = nations.id order by users.id;

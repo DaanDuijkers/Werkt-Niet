@@ -1,0 +1,56 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:SchedulingWPF"
+             xmlns:Logic="clr-namespace:SchedulingWPF.Logic" x:Class="SchedulingWPF.ShiftSchedulerUserControl"
+             mc:Ignorable="d"
+             d:DesignHeight="800" d:DesignWidth="1200">
+    <Grid MinWidth="1100" MinHeight="700">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="10" />
+        </Grid.RowDefinitions>
+        <Grid x:Name="MainGrid" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.25*" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Logic:ListBoxExtend x:Name="lbEmployees" Margin="5,30,10,0" SelectionMode="Multiple" MouseMove="lbEmployees_MouseMove">
+                    <Logic:ListBoxExtend.ContextMenu>
+                        <ContextMenu Name="ContextMenuLbEmployees" StaysOpen="true">
+                        </ContextMenu>
+                    </Logic:ListBoxExtend.ContextMenu>
+                </Logic:ListBoxExtend>
+                <Label Height="30" Margin="10,0,5,0" VerticalAlignment="Top" Content="Available Employees:">
+                </Label>
+            </Grid>
+        </Grid>
+        <Label Margin ="0,24,276,0"  Content="Week number:" HorizontalAlignment="Right" VerticalAlignment="Top" Height="30" Width="100" HorizontalContentAlignment="Center" />
+        <Label x:Name="lblWeekNumber" Margin ="0,54,276,0"  Content="NR" HorizontalAlignment="Right" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Center" FontFamily="Segoe UI Black" FontSize="24" Height="42" />
+        <Button x:Name="btnWeekBack" HorizontalAlignment="Right" Height="72" Margin="0,0,386,0" VerticalAlignment="Center" Width="72" Click="btnWeekBack_Click">
+            <StackPanel>
+                <Image Source="Resources/back_96px.png"></Image>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnWeekForward" HorizontalAlignment="Right" Height="72" Margin="0,0,194,0" VerticalAlignment="Center" Width="72" Click="btnWeekForward_Click">
+            <StackPanel>
+                <Image Source="Resources/forward_96px.png"></Image>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnAccept" HorizontalAlignment="Right" Height="72" Margin="0,0,92,0" VerticalAlignment="Center" Width="72" Click="btnAccept_Click">
+            <StackPanel>
+                <Image Source="Resources/checkmark_96px.png" />
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnReject" HorizontalAlignment="Right" Height="72" Margin="0,0,10,0" VerticalAlignment="Center" Width="72" Click="btnReject_Click">
+            <StackPanel>
+                <Image Source="Resources/delete_96px.png"></Image>
+            </StackPanel>
+        </Button>
+        <Calendar x:Name="WeekCalendar" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top" SelectionMode="SingleRange" />
+    </Grid>
+</UserControl>

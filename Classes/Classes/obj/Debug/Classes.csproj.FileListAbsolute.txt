@@ -1,0 +1,6 @@
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Classes\Classes\obj\Debug\Classes.pdb

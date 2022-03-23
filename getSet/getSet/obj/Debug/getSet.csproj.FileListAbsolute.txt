@@ -1,0 +1,6 @@
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\getSet\getSet\bin\Debug\getSet.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\getSet\getSet\bin\Debug\getSet.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\getSet\getSet\bin\Debug\getSet.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\getSet\getSet\obj\Debug\getSet.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\getSet\getSet\obj\Debug\getSet.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\getSet\getSet\obj\Debug\getSet.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Traffic\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Traffic\Traffic\bin\Debug\Traffic.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Traffic\Traffic\bin\Debug\Traffic.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Traffic\Traffic\obj\Debug\Traffic.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Traffic\Traffic\obj\Debug\Traffic.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\Traffic\Traffic\obj\Debug\Traffic.pdb

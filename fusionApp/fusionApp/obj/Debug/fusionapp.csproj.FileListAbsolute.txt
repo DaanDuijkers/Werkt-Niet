@@ -1,0 +1,31 @@
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\bin\Debug\fusionapp.exe.config
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\bin\Debug\fusionapp.exe
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\bin\Debug\fusionapp.pdb
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.csprojAssemblyReference.cache
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\MainWindow.g.cs
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\App.g.cs
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp_MarkupCompile.cache
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp_MarkupCompile.lref
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\MainWindow.baml
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.g.resources
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.Properties.Resources.resources
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.csproj.GenerateResource.cache
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.csproj.CoreCompileInputs.cache
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.exe
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.pdb
+C:\Users\Youtube\source\repos\fusionapp\fusionapp\obj\Debug\fusionapp.Form1.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\bin\Debug\fusionapp.exe.config
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\bin\Debug\fusionapp.exe
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\bin\Debug\fusionapp.pdb
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp.csprojResolveAssemblyReference.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\MainWindow.g.cs
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\App.g.cs
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp_MarkupCompile.cache
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp_MarkupCompile.lref
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\MainWindow.baml
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp.g.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp.Form1.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp.Properties.Resources.resources
+C:\Users\Daan Duijkers\Documents\Visual Studio 2015\Projects\fusionApp\fusionapp\obj\Debug\fusionapp.csproj.GenerateResource.Cache

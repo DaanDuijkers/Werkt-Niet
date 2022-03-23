@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaar\\MediaBazaar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\MediaBazaarModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\MediaBazaarModel.csproj",
+        "projectName": "MediaBazaarModel",
+        "projectPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\MediaBazaarModel.csproj",
+        "packagesPath": "C:\\Users\\Daan Duijkers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daan Duijkers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaar\\MediaBazaar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaar\\MediaBazaar.csproj",
+        "projectName": "MediaBazaar",
+        "projectPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaar\\MediaBazaar.csproj",
+        "packagesPath": "C:\\Users\\Daan Duijkers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daan Duijkers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows10.0.17763": {
+            "targetAlias": "net5.0-windows10.0.17763.0",
+            "projectReferences": {
+              "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\MediaBazaarModel.csproj": {
+                "projectPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\MediaBazaarModel.csproj"
+              },
+              "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\SchedulingWPF\\SchedulingWPF.csproj": {
+                "projectPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\SchedulingWPF\\SchedulingWPF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows10.0.17763": {
+          "targetAlias": "net5.0-windows10.0.17763.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.Net.Compilers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.17763.19, 10.0.17763.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\SchedulingWPF\\SchedulingWPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\SchedulingWPF\\SchedulingWPF.csproj",
+        "projectName": "SchedulingWPF",
+        "projectPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\SchedulingWPF\\SchedulingWPF.csproj",
+        "packagesPath": "C:\\Users\\Daan Duijkers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\SchedulingWPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daan Duijkers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\MediaBazaarModel.csproj": {
+                "projectPath": "C:\\Users\\Daan Duijkers\\source\\repos\\prj-s2-cb05-group1\\MediaBazaarModel\\MediaBazaarModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

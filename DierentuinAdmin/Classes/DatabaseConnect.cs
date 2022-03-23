@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DierentuinAdmin.Classes
+{
+    class DatabaseConnect
+    {
+        protected SqlConnection con = new SqlConnection(@"Data Source=LAPTOP-22DSHTEM\SQLEXPRESS;
+            Initial Catalog=Dierentuin;
+            Integrated Security=True");
+        protected SqlCommand cmd;
+        protected SqlDataReader rdr;
+        protected SqlDataAdapter da;
+    }
+}

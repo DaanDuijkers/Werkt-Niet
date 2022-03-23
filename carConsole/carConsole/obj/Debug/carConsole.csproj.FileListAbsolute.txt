@@ -1,0 +1,6 @@
+c:\users\daan duijkers\documents\visual studio 2015\Projects\carConsole\carConsole\bin\Debug\carConsole.exe.config
+c:\users\daan duijkers\documents\visual studio 2015\Projects\carConsole\carConsole\bin\Debug\carConsole.exe
+c:\users\daan duijkers\documents\visual studio 2015\Projects\carConsole\carConsole\bin\Debug\carConsole.pdb
+c:\users\daan duijkers\documents\visual studio 2015\Projects\carConsole\carConsole\obj\Debug\carConsole.csprojResolveAssemblyReference.cache
+c:\users\daan duijkers\documents\visual studio 2015\Projects\carConsole\carConsole\obj\Debug\carConsole.exe
+c:\users\daan duijkers\documents\visual studio 2015\Projects\carConsole\carConsole\obj\Debug\carConsole.pdb
